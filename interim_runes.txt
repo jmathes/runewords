@@ -1,0 +1,33 @@
+El	N/A	+50 attack rating, +1 light radius	+15 defense, +1 light radius	11
+Eld	3 El	+75% damage to undead, +50 attack rating against undead	15% slower stamina drain, +7% chance to block (shield)	11
+Tir	3 Eld	+2 mana after each kill	+2 mana after each kill	13
+Nef	3 Tir	Knockback	+30 missile defense	13
+Eth	3 Nef	-25% target defense	+15% mana regeneration	15
+Ith	3 Eth	+9 maximum damage	15% damage taken goes to mana	15
+Tal	3 Ith	+75 poison damage over 5 seconds	+30% poison resist, +35% poison resist (shield)	17
+Ral	3 Tal	Add 5-30 fire damage	+30% fire resist, +35% fire resist (shield)	19
+Ort	3 Ral	Add 1-50 lightning damage	+30% lightning resist, +35% lightning resist (shield)	21
+Thul	3 Ort	Add 3-14 cold damage (3 seconds)	+30% cold resist, +35% cold resist (shield)	23
+Amn	3 Thul, Chipped Topaz	7% life stolen per hit	Attacker takes damage of 14	25
+Sol	3 Amn, Chipped Amethyst	+9 minimum damage	Damage reduced by 7	27
+Shael	3 Sol, Chipped Sapphire	20% increased attack speed	20% faster hit recovery, 20% faster block rate (shield)	29
+Dol	3 Shael, Chipped Ruby	Hit causes monster to flee (25%)	+7 replenish life	31
+Hel	3 Dol, Chipped Emerald	-20% requirements	-15% requirements	N/A
+Io	3 Hel, Chipped Diamond	+10 vitality	+10 vitality	35
+Lum	3 Io, Flawed Topaz	+10 energy	+10 energy	37
+Ko	3 Lum, Flawed Amethyst	+10 dexterity	+10 dexterity	39
+Fal	3 Ko, Flawed Sapphire	+10 strength	+10 strength	41
+Lem	3 Fal, Flawed Ruby	75% extra gold from monsters	50% extra gold from monsters	43
+Pul	3 Lem, Flawed Emerald	+75% damage to demons, +100 attack rating against demons	+30% enhanced defense	45
+Um	2 Pul, Flawed Diamond	25% chance of open wounds	+15 all resistances, +22 all resistances (shield)	47
+Mal	2 Um, Normal Topaz	Prevent monster heal	Magic damage reduced by 7	49
+Ist	2 Mal, Normal Amethyst	+30% better magic find	+25% better magic find	51
+Gul	2 Ist, Normal Sapphire	+20% bonus to attack rating	+5% to maximum poison resist	53
+Vex	2 Gul, Normal Ruby	7% mana stolen per hit	+5% to maximum fire resist	55
+Ohm	2 Vex, Normal Emerald	+50% enhanced damage	+5% to maximum cold resist	57
+Lo	2 Ohm, Normal Diamond	+20% deadly strike	+5% to maximum lightning resist	59
+Sur	2 Lo, Flawless Topaz	Hit blinds target	+5% maximum mana, +50 mana (shields)	61
+Ber	2 Sur, Flawless Amethyst	+20% chance of crushing blow	Damage reduced by 8%	63
+Jah	2 Ber, Flawless Sapphire	Ignore target's defense	+5% maximum life, +50 life (shield)	65
+Cham	2 Jah, Flawless Ruby	Freeze target +3	Cannot be frozen	67
+Zod	2 Cham, Flawless Emerald	Indestructible	Indestructible	69
